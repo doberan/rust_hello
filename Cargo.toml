@@ -1,0 +1,9 @@
+[package]
+
+name = "sample"
+version = "0.0.1"
+authors = ["doberan <doberan.develop@gmail.com"]
+
+[[bin]]
+name = "hello"
+path = "src/hello.rs"
